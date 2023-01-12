@@ -1,0 +1,8 @@
+{
+  "name": "ignite-node-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/alainoliveira/rocketseat-ignite-node-backend.git",
+  "author": "alainoliveira <alain_oliveira@ao2.com.br>",
+  "license": "MIT"
+}
